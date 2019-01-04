@@ -1,0 +1,51 @@
+c:\users\shaje\source\repos\Vision\Vision\bin\Debug\Vision.exe.config
+c:\users\shaje\source\repos\Vision\Vision\bin\Debug\Vision.exe
+c:\users\shaje\source\repos\Vision\Vision\bin\Debug\Vision.pdb
+c:\users\shaje\source\repos\Vision\Vision\obj\Debug\Vision.csprojResolveAssemblyReference.cache
+c:\users\shaje\source\repos\Vision\Vision\obj\Debug\MainWindow.g.cs
+c:\users\shaje\source\repos\Vision\Vision\obj\Debug\App.g.cs
+c:\users\shaje\source\repos\Vision\Vision\obj\Debug\Vision_MarkupCompile.cache
+c:\users\shaje\source\repos\Vision\Vision\obj\Debug\Vision_MarkupCompile.lref
+c:\users\shaje\source\repos\Vision\Vision\obj\Debug\MainWindow.baml
+c:\users\shaje\source\repos\Vision\Vision\obj\Debug\Vision.g.resources
+c:\users\shaje\source\repos\Vision\Vision\obj\Debug\Vision.Properties.Resources.resources
+c:\users\shaje\source\repos\Vision\Vision\obj\Debug\Vision.csproj.GenerateResource.Cache
+c:\users\shaje\source\repos\Vision\Vision\obj\Debug\Vision.csproj.CoreCompileInputs.cache
+c:\users\shaje\source\repos\Vision\Vision\obj\Debug\Vision.exe
+c:\users\shaje\source\repos\Vision\Vision\obj\Debug\Vision.pdb
+C:\Users\shaje\source\repos\Vision\Vision\obj\Debug\AppList.g.cs
+C:\Users\shaje\source\repos\Vision\Vision\obj\Debug\AppList.baml
+C:\Users\shaje\source\repos\Vision\Vision\obj\Debug\RunningPro.g.cs
+C:\Users\shaje\source\repos\Vision\Vision\obj\Debug\RunningPro.baml
+C:\Users\shaje\source\repos\Vision\Vision\obj\Debug\Location.g.cs
+C:\Users\shaje\source\repos\Vision\Vision\obj\Debug\Location.baml
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\bin\Debug\Vision.exe.config
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\bin\Debug\Vision.exe
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\bin\Debug\Vision.pdb
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\Vision.csprojResolveAssemblyReference.cache
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\Location.g.cs
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\MainWindow.g.cs
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\AppList.g.cs
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\RunningPro.g.cs
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\App.g.cs
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\Vision_MarkupCompile.cache
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\Vision_MarkupCompile.lref
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\Location.baml
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\MainWindow.baml
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\AppList.baml
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\RunningPro.baml
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\Vision.g.resources
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\Vision.Properties.Resources.resources
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\Vision.csproj.GenerateResource.cache
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\Vision.csproj.CoreCompileInputs.cache
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\Vision.exe
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\Vision.pdb
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\Welcome.g.cs
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\Welcome.baml
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\bin\Debug\AnimatedGif.dll
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\bin\Debug\WpfAnimatedGif.dll
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\bin\Debug\XamlAnimatedGif.dll
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\bin\Debug\WpfAnimatedGif.xml
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\Vision.csproj.CopyComplete
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\Sound.g.cs
+C:\Users\AnY\Desktop\Vision AI\Vision\Vision\obj\Debug\Sound.baml
